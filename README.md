@@ -4,7 +4,9 @@
 </div>
 
 # Nissan
-At Nissan Motorsport (NISMO) it’s all about innovation and performance.
+> At Nissan Motorsport (NISMO) it’s all about innovation and performance.
+
+![image](https://github.com/danilppzz/Nissan-Page/assets/88750898/b73102e2-2df2-43c0-aa8e-a9a500b5704f)
 
 # Build with
 ```json
