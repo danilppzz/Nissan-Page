@@ -63,7 +63,7 @@ export default function Home() {
                     <span className="text-red-500 mr-8">01</span>{" "}
                     <Link
                       className="underline-offset-2 transition duration-100 hover:underline"
-                      href={"/supergt"}
+                      href={"/formulae"}
                     >
                       FORMULA<span className="text-red-500 mx-2">E</span>
                     </Link>
