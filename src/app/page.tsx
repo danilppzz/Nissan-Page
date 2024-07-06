@@ -34,7 +34,7 @@ export default function Home() {
                   NEWS
                 </motion.button>
               </Link>
-              <Link href="/news">
+              <Link href="/shop">
                 <motion.button
                   className="px-4 py-1 border-[1px] border-red-500 transition duration-150"
                   whileHover={{ scale: 1.2, backgroundColor: "#ef4444" }}
